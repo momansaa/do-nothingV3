@@ -1,4 +1,4 @@
-var seconds = 1090;
+var seconds = 0;
 var secondCounter = document.getElementById('secondCounter');
 var nothing = document.getElementById('nothing');
 var randMessageNo = 0;
